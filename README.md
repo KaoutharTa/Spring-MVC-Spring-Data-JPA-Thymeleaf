@@ -1,5 +1,5 @@
 <h2>Captures d'écran pour le test :</h2>
-<img src="Spring-MVC-Spring-Data-JPA-Thymeleaf/tree/main/listpatient.png" width="500" alt="1">
+<img src="images/listpatient.png" width="500" alt="1">
 <h3>Search a patient</h3>
 <img src="tp3/images/searchpatient.png" width="500" alt="1">
 <h3>Edit a patient</h3>
