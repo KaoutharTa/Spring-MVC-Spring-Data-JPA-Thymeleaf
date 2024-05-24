@@ -4,4 +4,5 @@
 <h3>Add a patient</h3>
 
 <h2>Database:</h2>
-![bdd tp3](https://github.com/KaoutharTa/Spring-MVC-Spring-Data-JPA-Thymeleaf/assets/134963759/f39b228c-9981-4094-9f61-c8b5be5d68ec)
+![image](https://github.com/KaoutharTa/Spring-MVC-Spring-Data-JPA-Thymeleaf/assets/134963759/5f307bb7-648b-4249-a163-97f1a185f06a)
+
